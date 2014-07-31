@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research 
 tags: [research]
-modified: 7-28-2014
+modified: 7-30-2014
 comments: true
 image:
   feature: gummy.jpg
@@ -46,7 +46,7 @@ My astronomy research focused on deep observations of nearby galaxies, as descri
 
 #### - Star formation in galaxy outskirts
 
-The outer disk spiral arms of M81, caused by the interaction with M82 and NGC3077, are fertile grounds for exploring star formation in low density environments. The area is characterized by extended HI arms and filaments within which are found HII regions and dwarf galaxies, including Holmberg IX. Much attention has focused in past years on the evidence for star formation and on the properties of the stellar populations detected in these HI features, especially from recent GALEX and HST observations. I am currently studying the HII region population over a 1.5 degree field, derived from a Burrell Schmidt H-alpha composite supplemented with ARC 3.5-m telescope emission line images of both inner and outer disk HII regions. I am interested in the luminosities and morphologies of the HII regions and comparing the current massive star formation with the recent and past rates inferred from the stellar populations detected in the outer disk features. I am also looking at abundances for these star forming regions to help determine the origin of outer disk gas. Below you can find a link to my paper, finding a shallow metallicity gradient for the HII regions of M81.
+The outer disk spiral arms of M81, caused by the interaction with M82 and NGC3077, are fertile grounds for exploring star formation in low density environments. The area is characterized by extended HI arms and filaments within which are found HII regions and dwarf galaxies, including Holmberg IX. Much attention has focused in past years on the evidence for star formation and on the properties of the stellar populations detected in these HI features, especially from recent GALEX and HST observations. I analyzed the HII region population over a 1.5 degree field, derived from a Burrell Schmidt H-alpha composite supplemented with ARC 3.5-m telescope emission line images of both inner and outer disk HII regions. I focused on studying the luminosities and morphologies of the HII regions and comparing the current massive star formation with the recent and past rates inferred from the stellar populations detected in the outer disk features. I also analyzed abundances for these star forming regions to help determine the origin of outer disk gas. Here you can find a link to my paper, finding a [shallow metallicity gradient for the HII regions of M81](http://adsabs.harvard.edu/abs/2012MNRAS.422..401P).
 
 #### - Gas accretion
 
