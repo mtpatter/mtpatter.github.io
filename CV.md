@@ -11,6 +11,6 @@ image:
 If you don't see anything below, find my CV in pdf format here: [Maria's CV](/images/CV-2014Aug.pdf)
 
 <object data="/images/CV-2014Aug.pdf" type="application/pdf" width="600" height="600">
-  hmm try the pdf link instead : <a href="/images/CV-2014Aug.pdf"></a>
+  hmm try the pdf link above instead <a href="/images/CV-2014Aug.pdf"></a>
 </object>
 
