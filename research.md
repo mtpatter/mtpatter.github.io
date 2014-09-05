@@ -31,7 +31,7 @@ outer disks and the role of accretion of gas and faint companions in galaxy evol
 ### Environmental Epidemiology
 
 I am using electronic medical records (EMR) data across the United States to 
-look for geospatial patterns in the comorbidities of complex diseases.
+look for geospatial patterns and possible environmental factors influencing the incidence of disease and disease pairs.
 
 ### Earth Sciences
 
@@ -43,6 +43,7 @@ satellite images from NASA's Earth Observing-1 satellite.
 ### Astronomy
 
 My astronomy research focused on deep observations of nearby galaxies, as described below. 
+Here is my [SAO/NASA ADS publications query](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+publications&libid=4f29dfc54b).
 
 #### - Star formation in galaxy outskirts
 
