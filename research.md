@@ -24,7 +24,7 @@ I have a strong interest in cross-disciplinary scientific data analysis, techniq
 My current research focuses on geospatial disease incidence and the automated analysis of Earth satellite imagery.    
 
 <br>My previous PhD research focused on 
-galaxy evolution and formation through studies of faint emision of gas and stars
+galaxy evolution and formation through studies of faint emission of gas and stars
 in galaxy outskirts.  My dissertation was concerned with star formation in galaxy
 outer disks and the role of accretion of gas and faint companions in galaxy evolution.  
 
