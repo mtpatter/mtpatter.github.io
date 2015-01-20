@@ -8,9 +8,9 @@ image:
   feature: telops.jpg
 ---
 
-If you don't see anything below, find my CV in pdf format here: [Maria's CV](/images/CV-2014Oct.pdf)
+If you don't see anything below, find my CV in pdf format here: [Maria's CV](/images/CV-2015Jan.pdf)
 
-<object data="/images/CV-2014Oct.pdf" type="application/pdf" width="600" height="600">
-  hmm try the pdf link above instead <a href="/images/CV-2014Oct.pdf"></a>
+<object data="/images/CV-2015Jan.pdf" type="application/pdf" width="600" height="600">
+  hmm try the pdf link above instead <a href="/images/CV-2015Jan.pdf"></a>
 </object>
 
