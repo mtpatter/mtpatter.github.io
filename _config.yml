@@ -13,7 +13,7 @@ owner:
   email:          mtpatter@uchicago.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:	  OpenScienceCafe
-  kaggle: 	  'users/107968/maria-patterson'
+  kaggle: 	  'mtpatter'
   blog:		  http://opensciencecafe.org/
   facebook:      
   github:         mtpatter
@@ -50,8 +50,11 @@ links:
   - title: LAC@UChicago
     url: http://labcomputing.opensciencedatacloud.org
     external: true
+  - title: CDIS@UChicago
+    url: http://cdis.uchicago.edu
+    external: true
   - title: Open Science Data Cloud
-    url: http://opensciencedatacloud.org
+    url: http://www.opensciencedatacloud.org
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
