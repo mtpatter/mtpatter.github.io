@@ -48,7 +48,7 @@ links:
   #- title: Posts
   #  url: /posts/
   - title: LAC@UChicago
-    url: https://github.com/LabAdvComp/
+    url: https://github.com/LabAdvComp
     external: true
   - title: CDIS@UChicago
     url: http://cdis.uchicago.edu
