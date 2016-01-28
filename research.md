@@ -35,7 +35,7 @@ look for geospatial patterns and possible environmental factors influencing the 
 
 ### Earth Sciences
 
-I work with Project Matsu, a collaboration between NASA and the Open Cloud Consortium,
+I work with Project Matsu, a collaboration between NASA and the Open Commons Consortium,
 developing cloud-based applications for the analysis of Earth satellite imagery.
 I am currently working on a Hadoop-based framework to automatically process daily
 satellite images from NASA's Earth Observing-1 satellite.
