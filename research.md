@@ -25,13 +25,14 @@ My current research focuses on geospatial disease incidence and the automated an
 
 <br>My previous PhD research focused on 
 galaxy evolution and formation through studies of faint emission of gas and stars
-in galaxy outskirts.  My dissertation was concerned with star formation in galaxy
+in galaxy outskirts from deep optical and radio data. 
+My dissertation was concerned with star formation in galaxy
 outer disks and the role of accretion of gas and faint companions in galaxy evolution.  
 
 ### Environmental Epidemiology
 
 I am using electronic medical records (EMR) data across the United States to 
-look for geospatial patterns and possible environmental factors influencing the incidence of disease and disease pairs.
+look for geospatial patterns and possible environmental factors influencing the incidence of disease and disease pairs. I am also working on simple algorithms to detect geospatial and other patterns and correlations.
 
 ### Earth Sciences
 
@@ -39,6 +40,7 @@ I work with Project Matsu, a collaboration between NASA and the Open Commons Con
 developing cloud-based applications for the analysis of Earth satellite imagery.
 I am currently working on a Hadoop-based framework to automatically process daily
 satellite images from NASA's Earth Observing-1 satellite.
+The outline of how the pipeline and several analytics work is in our paper about the ['Matsu Wheel' for the IEEE Big Data Services and Applications Conference](http://arxiv.org/abs/1602.06888).
 
 ### Astronomy
 
