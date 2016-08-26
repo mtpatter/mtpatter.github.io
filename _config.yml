@@ -9,8 +9,9 @@ disqus_shortname:
 owner:
   name:           Maria T. Patterson
   avatar:         bio-photo.jpg
-  bio:            "Data scientist at UChicago, Astronomy PhD, open science and reproducible research advocate"
-  email:          mtpatter@uchicago.edu
+  bio:            "Research Scientist on the LSST data
+  management team at UW, open science and reproducible research advocate."
+  email:          mtpatter@w.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:	  OpenScienceCafe
   kaggle: 	  'mtpatter'
@@ -47,21 +48,18 @@ links:
   #  url: /presentations/
   #- title: Posts
   #  url: /posts/
-  - title: LAC@UChicago
-    url: http://github.com/LabAdvComp
+  - title: DM@LSST
+    url: http://dm.lsst.org
     external: true
-  - title: CDIS@UChicago
-    url: http://cdis.uchicago.edu
-    external: true
-  - title: Open Science Data Cloud
-    url: http://www.opensciencedatacloud.org
+  - title: OpenSource@LSST
+    url: http://github.com/LSST
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
-pygments:    true
-#highlighter: pygments
+#pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -72,7 +70,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers:
