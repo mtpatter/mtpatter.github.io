@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 description: "My homepage"
 tags: []
 image:
