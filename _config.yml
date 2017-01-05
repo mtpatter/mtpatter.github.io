@@ -59,7 +59,7 @@ links:
 timezone:    America/Los_Angeles
 future:      true
 #pygments:    true
-highlighter: pygments
+highlighter: rouge #pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
