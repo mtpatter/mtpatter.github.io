@@ -6,8 +6,6 @@ image:
   feature: selfie.jpg
 ---
 
-# About Me
-
 I am currently a Research Scientist at the [University of Washington's Department of
 Astronomy](http://depts.washington.edu/astron/) working in the [Large Synoptic
 Survey Telescope (LSST) Data
