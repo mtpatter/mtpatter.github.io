@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "Updates"
+    url: /updates/
   - title: "Research"
     url: /research/
   - title: "CV"
     url: /CV/
-  - title: "Updates"
-    url: /updates/
   - title: "DM@LSST"
     url: http://dm.lsst.org
   - title: "OpenSource@LSST"
