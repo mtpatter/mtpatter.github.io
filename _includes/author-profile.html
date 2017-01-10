@@ -131,6 +131,14 @@
         </li>
       {% endif %}
 
+      {% if author.docker %}
+        <li>
+          <a href="https://hub.docker.com/r/{{ author.docker }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-ship" aria-hidden="true"></i> Docker
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.stackoverflow %}
         <li>
           <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs">
