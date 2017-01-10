@@ -1,0 +1,94 @@
+title:            Maria Patterson
+description:      A website about my personal and academic activities. 
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+#url:              http://mtpatter.github.io
+url:              http://localhost:4000
+disqus_shortname:
+
+# Owner/author information
+owner:
+  name:           Maria T. Patterson
+  avatar:         bio-photo.jpg
+  bio:            "Research Scientist on the LSST data
+  management team at UW, open science and reproducible research advocate."
+  email:          mtpatter@uw.edu
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:	  OpenScienceCafe
+  kaggle: 	  'mtpatter'
+  blog:		  http://opensciencecafe.org/
+  facebook:      
+  github:         mtpatter
+  docker:         mtpatter
+  stackoverflow:
+  linkedin:	  mariatpatterson
+  scholar: 	  x1kZj8MAAAAJ
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /CV/
+  - title: Updates
+    url: /updates/
+  #- title: Posts
+  #  url: /posts/
+  - title: DM@LSST
+    url: http://dm.lsst.org
+    external: true
+  - title: OpenSource@LSST
+    url: http://github.com/LSST
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+#pygments:    true
+highlighter: rouge #pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+repository: mtpatter/mtpatter.github.io
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

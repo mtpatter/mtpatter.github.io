@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /CV/
+  - title: "Updates"
+    url: /updates/
+  - title: "DM@LSST"
+    url: http://dm.lsst.org
+  - title: "OpenSource@LSST"
+    url: http://github.com/LSST
