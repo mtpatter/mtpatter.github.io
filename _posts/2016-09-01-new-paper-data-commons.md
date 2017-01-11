@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Paper on data commons published
-description: "Our new paper 'A Case for Data Commons: Toward Data Science as a Service' was published in a special issue of Computing in Science and Engineering."
+excerpt: "Our new paper 'A Case for Data Commons: Toward Data Science as a Service' was published in a special issue of Computing in Science and Engineering."
 modified: 2016-09-01
 ---
 
