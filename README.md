@@ -1,5 +1,7 @@
 # My website using the Minimal Mistakes theme
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/mtpatter/jekyll-minmistakes.svg)](https://hub.docker.com/r/mtpatter/jekyll-minmistakes/)
+
 For Docker jekyll environment, from the root directory, build a Docker image:
 
 ```
