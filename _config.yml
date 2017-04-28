@@ -11,7 +11,7 @@ title                    : "Maria Patterson"
 title_separator          : "-"
 name                     : "Maria Patterson"
 description              : "A website about my personal and academic activities. "
-url                      : http://mtpatter.github.io
+url                      : https://mtpatter.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mtpatter/mtpatter.github.io
 teaser                   : /assets/images/selfie.jpg
