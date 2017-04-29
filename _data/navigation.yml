@@ -2,8 +2,8 @@
 main:
   - title: "Updates"
     url: /updates/
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
     url: /CV/
   - title: "DM@LSST"
