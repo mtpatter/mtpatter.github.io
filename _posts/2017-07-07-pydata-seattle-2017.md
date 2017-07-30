@@ -6,8 +6,7 @@ modified: 2017-07-07
 
 I gave a talk entitled ["Building a community fountain around your data stream"](https://pydata.org/seattle2017/schedule/presentation/99/) at the PyData Seattle 2017 Conference held at Microsoft on July 7th.
 
-You can [watch it here on Microsoft's channel](https://channel9.msdn.com/Events/PyData/Seattle2017/BRK09)
-or view [my slides](https://mtpatter.github.io/talks/pydata-2017/).
+You can [watch it here on Microsoft's channel](https://channel9.msdn.com/Events/PyData/Seattle2017/BRK09) or on [youtube](https://www.youtube.com/watch?v=Co8XiL6242I) or view [my slides](https://mtpatter.github.io/talks/pydata-2017/).
 
 Summary:
 
