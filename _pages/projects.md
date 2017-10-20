@@ -7,7 +7,7 @@ header:
 ---
 
 I have a strong interest in adapting the DevOps culture and practices to enable
-robust scientific research. 
+robust scientific research.
 I enjoy engaging in cross-disciplinary scientific data analysis and learning
 about techniques and tools for ensuring reproducibility in research in the era
 of increasingly growing datasets.  I also enjoy outreach and working on effective science communication.
@@ -17,11 +17,12 @@ of increasingly growing datasets.  I also enjoy outreach and working on effectiv
 
 ## Science Clouds and Pipelines
 
-### - LSST 
+### - LSST
 I'm currently working with the LSST's data management group on the alert
 production pipeline team.  The LSST expects to observe about 10,000 transient
 objects per visit and will aim to send out public alerts on these events within
 60 seconds.  I'm working on the technology for the alert distribution system.
+I'm writing a technical note about this work here: [DMTN-028 Benchmarking a distribution system for LSST alerts](https://dmtn-028.lsst.io).
 
 ### - OSDC
 Previously, I was involved with a number of projects in the Open Science Data
@@ -56,7 +57,7 @@ in the OCC commons or in Amazon's public data cloud.
 
 ## Galaxy Formation and Evolution
 
-My dissertation research focused on deep observations of nearby galaxies, as described below. 
+My dissertation research focused on deep observations of nearby galaxies, as described below.
 
 ### - Star formation in galaxy outskirts
 The outer disk spiral arms of M81, caused by the interaction with neighboring galaxies M82 and NGC3077, are fertile grounds for exploring star formation in low density environments. The area is characterized by extended cold neutral hydrogen gas (HI) arms and filaments within which are found star forming regions (HII regions of ionized hydrogen) and dwarf galaxies. I analyzed the HII region population over a 1.5 degree field, derived from a Burrell Schmidt H-alpha (ionized hydrogen line) composite supplemented with ARC 3.5-m telescope emission line images of both inner and outer disk HII regions. I focused on studying the luminosities and morphologies of the HII regions and comparing the current massive star formation with the recent and past rates inferred from the stellar populations detected in the outer disk features. I also analyzed abundances for these star forming regions to help determine the origin of outer disk gas. Here you can find a link to my paper, finding a [shallow metallicity gradient for the HII regions of M81 indicating that the outer disk is composed of relatively processed and metal rich gas](http://adsabs.harvard.edu/abs/2012MNRAS.422..401P).
@@ -86,6 +87,5 @@ paper about the [Matsu Wheel](http://ieeexplore.ieee.org/document/7474368/).
 I also developed a Monte Carlo based algorithm called Neighbor-based
 Bootstrapping (NB2) that can be used to quantify geospatial autocorrelation and
 tailored to be more sensitive to either tight cluster patterns or broader less
-peaked patterns. I applied this algorithm to analyze electronic medical records (EMR) data across the United States to 
-look for geospatial patterns and possible environmental factors influencing the incidence of disease and disease pairs.
-
+peaked patterns. I applied this algorithm to analyze electronic medical records (EMR) data across the United States to
+look for geospatial patterns and possible environmental factors influencing the incidence of disease and disease pairs.  The results were published in the journal "Big Data" Vol. 5, No. 3, Sep 2017.  Read the paper [here](https://arxiv.org/abs/1703.01692).

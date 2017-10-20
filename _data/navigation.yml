@@ -4,8 +4,8 @@ main:
     url: /updates/
   - title: "Projects"
     url: /projects/
-  - title: "CV"
-    url: /CV/
+  - title: "Résumé"
+    url: /resume/
   - title: "DM@LSST"
     url: http://dm.lsst.org
   - title: "OpenSource@LSST"
