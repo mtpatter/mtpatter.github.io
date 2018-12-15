@@ -6,7 +6,5 @@ main:
     url: /projects/
   - title: "Résumé"
     url: /resume/
-  - title: "DIRAC"
-    url: http://dirac.astro.washington.edu
-  - title: "OpenSource@LSST"
-    url: http://github.com/LSST
+  - title: "High Alpha"
+    url: http://highalpha.com
