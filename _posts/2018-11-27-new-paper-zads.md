@@ -19,3 +19,9 @@ Read the paper here:
 ['The Zwicky Transient Facility Alert Distribution System'](http://iopscience.iop.org/article/10.1088/1538-3873/aae904/) by Maria T. Patterson, Eric C. Bellm, Ben Rusholme, Frank J. Masci, Mario Juric, K. Simon Krughoff, V. Zach Golkhou, Matthew J. Graham, Shrinivas R. Kulkarni, and George Helou.
 
 Or contact me for a personal copy.
+
+For more info on astronomical alert distribution systems at large scale using Kafka, I've written several technical notes for the Large Synoptic Survey Telescope collaboration:
+
+* [DMTN-028 Benchmarking a distribution system for LSST alerts](https://dmtn-028.lsst.io)
+* [DMTN-081: Deploying an alert stream mini-broker prototype](https://dmtn-081.lsst.io/)
+* [DMTN-093: Design of the LSST Alert Distribution System](https://dmtn-093.lsst.io/)
