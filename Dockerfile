@@ -12,12 +12,13 @@ RUN apt-get install -y zlib1g-dev liblzma-dev
 #RUN update_rubygems
 
 RUN gem install listen
-RUN gem install bundler
+RUN gem install bundler -v '1.17.3'
 
 EXPOSE 4000
 
 COPY Gemfile* /srv/jekyll/
 WORKDIR /srv/jekyll/
 
+RUN bundle update json
 RUN bundle install
 CMD bundle exec jekyll serve --host=0.0.0.0 --force_polling --watch
