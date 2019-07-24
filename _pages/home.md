@@ -5,7 +5,7 @@ header:
   image: /assets/images/selfie.jpg
 ---
 
-I am currently a Data Scientist at [High Alpha](https://highalpha.com), helping startups develop their data science pipelines.  I primarily hang out with [Pattern89](https://www.pattern89.com/) and [Zylo](https://zylo.com/).
+I am currently a Data Scientist at [High Alpha](https://highalpha.com), helping startups develop their data science pipelines.  I primarily hang out with [Pattern89](https://www.pattern89.com/), [Zylo](https://zylo.com/), and [Structural](https://www.structural.com/).
 
 After earning my PhD in astronomy, I spent several years at the University of Chicago's Center for Data Intensive Science in the Laboratory for Advanced Computing and worked on several scientific data commons projects with the [Open Science Data Cloud](https://www.opensciencedatacloud.org). I worked with NASA on [OCC Project Matsu](https://matsu.opensciencedatacloud.org) to archive, publicly distribute, and build automated analysis pipelines for daily satellite imagery from the Earth Observing-1 mission. I also worked with the [Open Commons Consortium (OCC)](http://occ-data.org) as a technical lead on the [NOAA Big Data Project](https://data-alliance.noaa.gov), prototyping a data digital identifier service to access NEXRAD data independent of its physical location and across cloud platforms.
 
