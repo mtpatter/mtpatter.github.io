@@ -16,8 +16,8 @@ résumé]({{site.url}}/assets/images/patterson-resume.pdf)
 
 <br><br><br>
 If you don't see anything below, find my CV in pdf format here: [Maria's
-CV]({{site.url}}/assets/images/CV201806.pdf)
+CV]({{site.url}}/assets/images/patterson-cv.pdf)
 
-<object data="{{site.url}}/assets/images/CV201806.pdf" type="application/pdf" width="600" height="600">
-  hmm try the pdf link above instead <a href="{{site.url}}/assets/images/CV201806.pdf"></a>
+<object data="{{site.url}}/assets/images/patterson-cv.pdf" type="application/pdf" width="600" height="600">
+  hmm try the pdf link above instead <a href="{{site.url}}/assets/images/patterson-cv.pdf"></a>
 </object>
