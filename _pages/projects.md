@@ -13,7 +13,7 @@ about techniques and tools for ensuring reproducibility in research in the era
 of increasingly growing datasets.  I also enjoy outreach and working on effective science communication.
 
 
-<br>Here is my [SAO/NASA ADS publications query](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=my+publications&libid=4f29dfc54b) and my [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en).
+<br>Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw) and my [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en).
 
 ## Science Clouds and Pipelines
 
