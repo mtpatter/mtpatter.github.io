@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 header:
-  image: /assets/images/selfie.jpg
+  image: /assets/images/wrigley.jpg
 ---
 
 I am currently a Machine Learning Engineer on the Data Science team at [High Alpha](https://highalpha.com).  I help startups develop their data science pipelines.  I primarily hang out with [Pattern89](https://www.pattern89.com/), [Zylo](https://zylo.com/), [Structural](https://www.structural.com/), and [Loupe](https://loupe.co/).
