@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Updates"
+  - title: "What's new"
     url: /updates/
-  - title: "Projects"
+  - title: "My work"
     url: /projects/
   - title: "Résumé"
     url: /resume/
