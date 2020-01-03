@@ -8,12 +8,12 @@ header:
 
 I have a strong interest in adapting the DevOps culture and practices to enable
 robust scientific research.
-I enjoy engaging in cross-disciplinary scientific data analysis and learning
+I've worked on a lot of cross-disciplinary data analysis projects and enjoy learning
 about techniques and tools for ensuring reproducibility in research in the era
 of increasingly growing datasets.  I also enjoy outreach and working on effective science communication.
 
 
-<br>Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw) and my [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en).
+<br>Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw), [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en), and [resume and CV](/resume/).
 
 ## Science Clouds and Pipelines
 
