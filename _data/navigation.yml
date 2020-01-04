@@ -4,7 +4,7 @@ main:
     url: /updates/
   - title: "My work"
     url: /projects/
+  - title: "Featured stuff"
+    url: /media/
   - title: "Résumé"
     url: /resume/
-  - title: "High Alpha"
-    url: http://highalpha.com
