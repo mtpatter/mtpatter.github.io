@@ -10,10 +10,9 @@ I have a strong interest in adapting the DevOps culture and practices to enable
 robust scientific research.
 I've worked on a lot of cross-disciplinary data analysis projects and enjoy learning
 about techniques and tools for ensuring reproducibility in research in the era
-of increasingly growing datasets.  I also enjoy outreach and working on effective science communication.
+of increasingly growing datasets.
 
-
-<br>Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw), [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en), and [resume and CV](/resume/).
+Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw), [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en), and [resume and CV](/resume/).
 
 ## Science Clouds and Pipelines
 
@@ -68,7 +67,7 @@ in the OCC commons or in Amazon's public data cloud.
 My dissertation research focused on deep observations of nearby galaxies, as described below.
 
 ### - Star formation in galaxy outskirts
-The outer disk spiral arms of M81, caused by the interaction with neighboring galaxies M82 and NGC3077, are fertile grounds for exploring star formation in low density environments. The area is characterized by extended cold neutral hydrogen gas (HI) arms and filaments within which are found star forming regions (HII regions of ionized hydrogen) and dwarf galaxies. I analyzed the HII region population over a 1.5 degree field, derived from a Burrell Schmidt H-alpha (ionized hydrogen line) composite supplemented with ARC 3.5-m telescope emission line images of both inner and outer disk HII regions. I focused on studying the luminosities and morphologies of the HII regions and comparing the current massive star formation with the recent and past rates inferred from the stellar populations detected in the outer disk features. I also analyzed abundances for these star forming regions to help determine the origin of outer disk gas. Here you can find a link to my paper, finding a [shallow metallicity gradient for the HII regions of M81 indicating that the outer disk is composed of relatively processed and metal rich gas](http://adsabs.harvard.edu/abs/2012MNRAS.422..401P).
+The outer disk spiral arms of M81, caused by the interaction with neighboring galaxies M82 and NGC3077, are fertile grounds for exploring star formation in low density environments. The area is characterized by extended cold neutral hydrogen gas (HI) arms and filaments within which are found star forming regions (HII regions of ionized hydrogen) and dwarf galaxies. I analyzed the HII region population over a 1.5 degree field, derived from a Burrell Schmidt H-alpha (ionized hydrogen line) composite supplemented with ARC 3.5-m telescope emission line images of both inner and outer disk HII regions. I focused on studying the luminosities and morphologies of the HII regions and comparing the current massive star formation with the recent and past rates inferred from the stellar populations detected in the outer disk features. I also analyzed abundances for these star forming regions to help determine the origin of outer disk gas. Here you can find a link to [my paper](http://adsabs.harvard.edu/abs/2012MNRAS.422..401P), finding a shallow metallicity gradient for the HII regions of M81 indicating that the outer disk is composed of relatively processed and metal rich gas.
 
 ### - Gas accretion
 I am a member of the [HALOGAS](http://www.astron.nl/halogas/) collaboration. The Hydrogen Accretion in LOcal GAlaxieS (HALOGAS) survey aims to investigate cold gas accretion in a sample of 22 neutrally-selected nearby spiral galaxies with 120 hours of integrated observation time at 21 cm for each target. The data are sensitive enough to study faint neutral hydrogen in the galaxy outskirts and to search for halogas and for possible accreting gas clouds. I worked on modeling the HI (cold hydrogen) for a few of these galaxies and studied the correlation between features in the HI gas and features detected in GALEX UV and H-alpha star formation tracers.
