@@ -13,4 +13,8 @@ Abstract:
 
 Read the paper here:
 
-['A case for data commons: Toward data science as a service' by Robert L Grossman, Allison Heath, Mark Murphy, Maria Patterson, and Walt Wells](http://online.qmags.com/CISE0916/default.aspx?pg=13&mode=2#pg13&mode2).
+['A case for data commons: Toward data science as a service'](http://dx.doi.org/10.1109/MCSE.2016.92) by Robert L Grossman, Allison Heath, Mark Murphy, Maria Patterson, and Walt Wells
+
+or on [the arXiv](https://arxiv.org/abs/1604.02608).
+
+<!--(http://online.qmags.com/CISE0916/default.aspx?pg=13&mode=2#pg13&mode2).-->

@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/
-title: Projects 
+title: Projects
 header:
   image: /assets/images/gummy.jpg
 ---
@@ -21,7 +21,7 @@ of increasingly growing datasets.  I also enjoy outreach and working on effectiv
 I worked with the LSST's data management group on the alert
 production pipeline team.  The LSST expects to observe about 10,000,000 transient
 objects per night and will aim to send out public alerts on these events within
-60 seconds.  I prototyped the technology for the alert distribution system, which was 
+60 seconds.  I prototyped the technology for the alert distribution system, which was
 also adopted by ZTF.
 I wrote a few technical notes about this work:
 
@@ -29,14 +29,14 @@ I wrote a few technical notes about this work:
 * [DMTN-081: Deploying an alert stream mini-broker prototype](https://dmtn-081.lsst.io/)
 * [DMTN-093: Design of the LSST Alert Distribution System](https://dmtn-093.lsst.io/)
 
-And a paper about the [The Zwicky Transient Facility Alert Distribution System](http://iopscience.iop.org/article/10.1088/1538-3873/aae904/), published in a special 
+And a paper about the [The Zwicky Transient Facility Alert Distribution System](/new-paper-zads/), published in a special
 issue of Publications of the Astronomical Society of the Pacific.
 
 ### - OSDC
 Previously, I was involved with a number of projects in the Open Science Data
 Cloud ecosystem.  We described the basic architecture of community science
 clouds and use cases for data commons in our paper ['A Case for Data Commons:
-Toward Data Science as a Service'](http://dx.doi.org/10.1109/MCSE.2016.92),
+Toward Data Science as a Service'](/new-paper-data-commons/),
 which appeared in the special issue of Computing in Science and Engineering
 magazine on Science as a Service.
 
