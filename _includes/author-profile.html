@@ -4,6 +4,11 @@
   {% assign author = site.author %}
 {% endif %}
 
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
+</head>
+
 <div itemscope itemtype="http://schema.org/Person">
 
   {% if author.avatar %}
@@ -91,10 +96,10 @@
         </li>
       {% endif %}
 
-      {% if author.xing %}
+      {% if author.medium %}
         <li>
-          <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-xing-square" aria-hidden="true"></i> XING
+          <a href="https://medium.com/@{{ author.medium }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium
           </a>
         </li>
       {% endif %}
