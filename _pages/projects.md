@@ -39,8 +39,20 @@ Toward Data Science as a Service'](/new-paper-data-commons/),
 which appeared in the special issue of Computing in Science and Engineering
 magazine on Science as a Service.
 
+
+### - NOAA
+I worked with the Open Commons Consortium as Technical Lead for the first stages of the
+NOAA Big Data Project (BDP).  We developed a data commons for academic and
+scientific researchers working with NEXRAD level 2 radar data.  I worked with
+the OCC NOAA Working Group to prototype a two-layer, hash-based, digital ID service that allows
+researchers to find and access data in the same way independent of its physical
+location, whether
+in the OCC commons or in Amazon's public data cloud.
+Learn more about our work from my [NOAA BDP partnership update](/ams-noaa-crada-update/)
+at the American Meteorological Society annual meeting.
+
 ### - NASA
-I worked with Project Matsu, a collaboration between NASA Goddard Space Flight
+I also worked with Project Matsu, a collaboration between NASA Goddard Space Flight
 Center and the Open Commons Consortium,
 developing cloud-based applications for the automated processing and analysis of Earth satellite imagery.
 Matsu is responsible for tools such as the Namibia Early Warning Flood
@@ -51,16 +63,6 @@ satellite images from NASA's Earth Observing-1 satellite.
 The outline of how the pipeline and several analytics work is in our paper
 about the ['Matsu Wheel' for the IEEE Big Data Services and Applications
 Conference](http://ieeexplore.ieee.org/document/7474368/){:target="_blank"}.
-
-### - NOAA
-I also worked with the Open Commons Consortium on the early stages of the
-NOAA Big Data Project.  The OCC developed a data commons for academic and
-scientific researchers working with NEXRAD level 2 radar data.  I worked with
-the OCC NOAA Working Group to prototype a two-layer, hash-based, digital ID service that allows
-researchers to find and access data in the same way independent of its physical
-location, whether
-in the OCC commons or in Amazon's public data cloud.
-
 
 ## Galaxy Formation and Evolution
 
