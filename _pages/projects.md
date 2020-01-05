@@ -6,13 +6,13 @@ header:
   image: /assets/images/gummy.jpg
 ---
 
-I have a strong interest in adapting the DevOps culture and practices to enable
-robust scientific research.
+I strive to apply DevOps practices and culture to data analysis
+so as to enable robust research.
 I've worked on a lot of cross-disciplinary data analysis projects and enjoy learning
-about techniques and tools for ensuring reproducibility in research in the era
+about techniques and tools for ensuring reproducibility in the era
 of increasingly growing datasets.
 
-Here is my [SAO/NASA ADS publications query](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw){:target="_blank"}, [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en){:target="_blank"}, and [resume and CV](/resume/).
+Here are my [publications](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw){:target="_blank"}, [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en){:target="_blank"}, and [resume and CV](/resume/).
 
 ## Science Clouds, Data Commons, and Streaming Data Pipelines
 
