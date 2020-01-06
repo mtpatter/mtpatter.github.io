@@ -14,15 +14,17 @@ of increasingly growing datasets.
 
 Here are my [publications](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt5wST6qNm4mzzjfOw){:target="_blank"}, [Google scholar profile](http://scholar.google.com/citations?user=x1kZj8MAAAAJ&hl=en){:target="_blank"}, and [resume and CV](/resume/).
 
-## Science Clouds, Data Commons, and Streaming Data Pipelines
+## Science Clouds, "Data Commons", and Streaming Data Pipelines
 
-### - LSST and ZTF
-I worked with the LSST's data management group on the alert
-production pipeline team.  The LSST expects to observe about 10,000,000 transient
-objects per night and will aim to send out public alerts on these events within
-60 seconds.  I prototyped the technology for the alert distribution system, which was
-also adopted by ZTF.
-I wrote a few technical notes about this work:
+### - Large Synoptic Survey Telescope and Zwicky Transient Facility
+I worked for the Large Synoptic Survey Telescope (LSST) data management group on the alert
+production pipeline team.  The LSST expects to observe about 10 million changing, or 'transient',
+objects per night and will alert astronomers and the public with a large-scale
+(~1 TB/night) data stream of these events within 60 seconds of detection.
+I prototyped the technology for the data distribution system for these
+alerts and deployed it successfully in production for use by the Zwicky
+Transient Facility (ZTF).  I have written a few technical notes about this work,
+which are living documents and continuously updated as work continues:
 
 * [DMTN-028 Benchmarking a distribution system for LSST alerts](https://dmtn-028.lsst.io){:target="_blank"}
 * [DMTN-081: Deploying an alert stream mini-broker prototype](https://dmtn-081.lsst.io/){:target="_blank"}
@@ -31,9 +33,9 @@ I wrote a few technical notes about this work:
 And a paper about the [The Zwicky Transient Facility Alert Distribution System](/new-paper-zads/), published in a special
 issue of Publications of the Astronomical Society of the Pacific.
 
-### - OSDC
+### - Open Science Data Cloud
 Previously, I was involved with a number of projects in the Open Science Data
-Cloud ecosystem.  We described the basic architecture of community science
+Cloud (OSDC) ecosystem.  We described the basic architecture of community science
 clouds and use cases for data commons in our paper ['A Case for Data Commons:
 Toward Data Science as a Service'](/new-paper-data-commons/),
 which appeared in the special issue of Computing in Science and Engineering
@@ -41,7 +43,7 @@ magazine on Science as a Service.
 
 
 ### - NOAA
-I worked with the Open Commons Consortium as Technical Lead for the first stages of the
+I worked with the Open Commons Consortium (OCC) as Technical Lead for the first stages of the
 NOAA Big Data Project (BDP).  We developed a data commons for academic and
 scientific researchers working with NEXRAD level 2 radar data.  I worked with
 the OCC NOAA Working Group to prototype a two-layer, hash-based, digital ID service that allows
