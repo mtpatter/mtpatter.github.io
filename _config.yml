@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Hi, I'm Maria"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Machine Learning Engineer, Astro PhD, open science architect, and diversity in STEM advocate."
+  bio              : "I'm a Machine Learning Engineer, Astro PhD, open science architect, and equity in STEM advocate."
   location         : "1 AU"
   email            : mtpatter@uchicago.edu
   uri              :
@@ -96,6 +96,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : mariatpatterson
+  medium           : maria.t.patterson
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
