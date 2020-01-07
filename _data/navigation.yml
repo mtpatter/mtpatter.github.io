@@ -4,6 +4,8 @@ main:
     url: /updates/
   - title: "My work"
     url: /projects/
+  - title: "My causes"
+    url: /causes/
   - title: "In the media"
     url: /media/
   - title: "Résumé"
