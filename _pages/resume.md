@@ -4,7 +4,7 @@ permalink: /resume/
 title: Résumé and Curriculum Vitae
 description: "My Résumé and CV"
 header:
-  image: /assets/images/telops.jpg
+  
 ---
 
 If you don't see anything below, find my résumé in pdf format here: [Maria's

@@ -3,7 +3,8 @@ layout: single
 permalink: /projects/
 title: Projects
 header:
-  image: /assets/images/gummy.jpg
+  image: /assets/images/telops.jpg
+  caption: "Control room at Kitt Peak National Observatory"
 ---
 
 I strive to apply DevOps practices and culture to data analysis
