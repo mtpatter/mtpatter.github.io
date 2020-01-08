@@ -18,8 +18,10 @@ Here are my [publications](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt
 ## Science Clouds, "Data Commons", and Streaming Data Pipelines
 
 ### - Large Synoptic Survey Telescope and Zwicky Transient Facility
-I worked for the Large Synoptic Survey Telescope (LSST) data management group on the alert
-production pipeline team.  The LSST expects to observe about 10 million changing, or 'transient',
+I worked for the Large Synoptic Survey Telescope (LSST, now known as the
+Legacy Survey of Space and Time carried out at Vera C. Rubin Observatory) in the
+data management group on the alert production pipeline team.  The LSST expects to
+observe about 10 million changing, or 'transient',
 objects per night and will alert astronomers and the public with a large-scale
 (~1 TB/night) data stream of these events within 60 seconds of detection.
 I prototyped the technology for the data distribution system for these
