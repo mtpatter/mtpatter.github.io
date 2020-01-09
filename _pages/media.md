@@ -6,6 +6,9 @@ title: "News, articles, and press with me and my work"
 
 <br>
 
+[2020 Tech Trends and Predictions from High Alpha](https://highalpha.com/2020-tech-trends-and-saas-predictions-from-high-alpha/){:target="_blank"}  
+High Alpha, 01/08/20
+
 [Magnetic Ropes Surround 'Whale Galaxy' 80,000 Light-Years Across](https://www.space.com/magnetic-filament-tie-up-galaxy.html){:target="_blank"}  
 Space.com, 12/27/19
 
