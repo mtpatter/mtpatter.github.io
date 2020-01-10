@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Maria Patterson"
 title_separator          : "-"
 name                     : "Maria Patterson"
-description              : "A website about my personal and academic activities. "
+description              : "Machine Learning Engineer, Astro PhD, open science architect, and equity in STEM advocate."
 url                      : https://mtpatter.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mtpatter/mtpatter.github.io
