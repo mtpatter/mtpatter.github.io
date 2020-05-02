@@ -17,6 +17,20 @@ Here are my [publications](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt
 
 ## Science Clouds, "Data Commons", and Streaming Data Pipelines
 
+### - Data pipelines for scientists
+Having worked on enough projects to have made a ton of mistakes, I have a number of
+resources for lessons learned, use cases, tutorials, and recommendations for
+building data science pipelines and environments for scientists.
+
+* [Cloud architecture for the data scientist: Deploying machine learning pipelines to production](https://2020.indycloudconf.com/talks/cloud-architecture-for-the-data-scientist-deploying-machine-learning-pipelines-to-production/) - a talk at Indy Cloud Conf 2020 - stay tuned for the recording
+* [Building a newsfeed from the Universe: Data streams in astronomy](https://www.confluent.io/kafka-summit-san-francisco-2019/building-a-newsfeed-from-the-universe-data-streams-in-astronomy/) - a use case talk I gave at Kafka Summit 2019
+* [Streaming Data from the Universe with Apache Kafka](https://www.confluent.io/blog/streaming-data-from-the-universe-with-apache-kafka/) - a blog post I wrote for Confluent
+* [Data Stream Processing for Newbies with Kafka, KSQL, and Postgres](https://medium.com/high-alpha/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres-c30309cfaaf8) - a tutorial on tools for implementing real-time analytics
+* [daloy](https://github.com/mtpatter/daloy) - a tool for converting a csv of time series events into a real-time stream
+* [Building a community fountain around your data stream](https://channel9.msdn.com/Events/PyData/Seattle2017/BRK09) - a talk I gave at PyData 2017
+* [Big data vs the scientist or: How I learned to stop worrying and love the cloud](https://soundcloud.com/loyolachicago/big-data-vs-the-scientist-maria-patterson) - a talk I gave at a Meetup for the Chicago ACM group
+
+
 ### - Large Synoptic Survey Telescope and Zwicky Transient Facility
 I worked for the Large Synoptic Survey Telescope (LSST, now known as the
 Legacy Survey of Space and Time carried out at Vera C. Rubin Observatory) in the
