@@ -6,6 +6,9 @@ title: "News, articles, and press with me and my work"
 
 <br>
 
+[A (Galactic) Arm’s Length Away – iotw2019a](https://www.nationalastro.org/news/a-galactic-arms-length-away-iotw2019a/){:target="_blank"} - featured image of galaxies NGC 672 and IC 1727  
+NSF’s National Optical-Infrared Astronomy Research Laboratory, 05/06/20
+
 [2020 Tech Trends and Predictions from High Alpha](https://highalpha.com/2020-tech-trends-and-saas-predictions-from-high-alpha/){:target="_blank"}  
 High Alpha, 01/08/20
 
