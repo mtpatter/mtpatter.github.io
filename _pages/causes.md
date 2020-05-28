@@ -73,3 +73,5 @@ at the world's biggest and best
 TCM is an incredible place for [research-based family learning](https://www.childrensmuseum.org/about/mission){:target="_blank" :rel="no_follow"}!  
 
 Consider joining and/or donating to its mission.
+They also have remote volunteering opportunities, transcribing the
+[Ryan White Letters Collection](https://ryansletters.childrensmuseum.org/){:target="_blank" :rel="no_follow"}.
