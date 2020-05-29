@@ -7,8 +7,8 @@ header:
   caption: "Control room at Kitt Peak National Observatory"
 ---
 
-I strive to apply DevOps practices and culture to data analysis
-so as to enable robust research.
+I strive to apply DevOps practices and culture to data products
+so as to enable robust and scalable analysis.
 I've worked on a lot of cross-disciplinary data analysis projects and enjoy learning
 about techniques and tools for ensuring reproducibility in the era
 of increasingly growing datasets.
@@ -17,10 +17,10 @@ Here are my [publications](https://ui.adsabs.harvard.edu/public-libraries/Hp6pLt
 
 ## Science Clouds, "Data Commons", and Streaming Data Pipelines
 
-### - Data pipelines for scientists
+### - Scalable pipelines for data products
 Having worked on enough projects to have made a ton of mistakes, I have a number of
 resources for lessons learned, use cases, tutorials, and recommendations for
-building data science pipelines and environments for scientists.
+building data science pipelines and analysis environments.
 
 * [Cloud architecture for the data scientist: Deploying machine learning pipelines to production](https://2020.indycloudconf.com/talks/cloud-architecture-for-the-data-scientist-deploying-machine-learning-pipelines-to-production/) - a talk at Indy Cloud Conf 2020 - stay tuned for the recording
 * [Building a newsfeed from the Universe: Data streams in astronomy](https://www.confluent.io/kafka-summit-san-francisco-2019/building-a-newsfeed-from-the-universe-data-streams-in-astronomy/) - a use case talk I gave at Kafka Summit 2019
