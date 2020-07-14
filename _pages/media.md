@@ -8,7 +8,8 @@ title: "News, articles, and press with me and my work"
 
 Featured image series from NSF’s National Optical-Infrared Astronomy Research Laboratory:      
 [A (Galactic) Arm’s Length Away – iotw2019a](https://www.nationalastro.org/news/a-galactic-arms-length-away-iotw2019a/){:target="_blank"} - galaxies NGC 672 and IC 1727, 05/06/20  
-[Silver Galactic Sliver - iotw2023a](https://www.nationalastro.org/news/silver-galactic-sliver-iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20
+[Silver Galactic Sliver - iotw2023a](https://www.nationalastro.org/news/silver-galactic-sliver-iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20  
+[Cosmic Fireworks](https://nationalastro.org/news/cosmic-fireworks/){:target="_blank"} - galaxy NGC 925, 07/02/20
 
 
 [2020 Tech Trends and Predictions from High Alpha](https://highalpha.com/2020-tech-trends-and-saas-predictions-from-high-alpha/){:target="_blank"}  
