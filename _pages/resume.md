@@ -14,6 +14,9 @@ résumé]({{site.url}}/assets/images/patterson-resume.pdf)
   hmm try the pdf link above instead <a href="{{site.url}}/assets/images/patterson-resume.pdf"></a>
 </object>
 
+
+<br><br><br>
+
 And in [federal format]({{site.url}}/assets/images/patterson-resume-fed.pdf):
 
 <object data="{{site.url}}/assets/images/patterson-resume-fed.pdf" type="application/pdf" width="600" height="600">
