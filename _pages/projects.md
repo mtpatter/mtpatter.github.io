@@ -38,7 +38,7 @@ data management group on the alert production pipeline team.  The LSST expects t
 observe about 10 million changing, or 'transient',
 objects per night and will alert astronomers and the public with a large-scale
 (~1 TB/night) data stream of these events within 60 seconds of detection.
-I prototyped the technology for the data distribution system for these
+Our team prototyped the technology for the data distribution system for these
 alerts and deployed it successfully in production for use by the Zwicky
 Transient Facility (ZTF).  I have written a few technical notes about this work,
 which are living documents and continuously updated as work continues:
