@@ -11,9 +11,9 @@ RUN apt-get install -y zlib1g-dev liblzma-dev
 RUN apt-get install -y libgmp3-dev
 RUN apt-get install -y build-essential
 
-
+RUN gem update
 RUN gem install rubygems-update
-RUN update_rubygems
+#RUN update_rubygems
 
 RUN gem install sassc
 
