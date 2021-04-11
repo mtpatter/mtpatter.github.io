@@ -9,9 +9,15 @@ title: "News, articles, and press with me and my work"
 [In Photos: Our Best View Yet Of A Glowing Galaxy Near The ‘Big Dipper’ That Hides A Supermassive Secret](https://www.forbes.com/sites/jamiecartereurope/2021/03/18/in-photos-best-view-yet-of-glowing-galaxy-near-the-big-dipper-that-hides-a-supermassive-secret/?sh=3afb145d3543&utm_source=TWITTER&utm_medium=social&utm_content=4623821552&utm_campaign=sprinklrForbesScience){:target="_blank"}  
 Forbes.com, 03/18/21
 
-Featured image series from NSF’s National Optical-Infrared Astronomy Research Laboratory:      
-[A (Galactic) Arm’s Length Away – iotw2019a](https://www.nationalastro.org/news/a-galactic-arms-length-away-iotw2019a/){:target="_blank"} - galaxies NGC 672 and IC 1727, 05/06/20  
-[Silver Galactic Sliver - iotw2023a](https://www.nationalastro.org/news/silver-galactic-sliver-iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20  
+[GSA Names New Presidential Innovation Fellows to Increase Innovation](https://www.executivegov.com/2020/10/gsa-names-new-presidential-innovation-fellows-to-increase-innovation-bob-de-luca-quoted/){:target="_blank"}  
+ExecutiveGov, 10/20/20
+
+[Passion and Purpose: Meet the 2021 Presidential Innovation Fellows](https://www.gsa.gov/blog/2020/10/19/passion-and-purpose-meet-the-2021-presidential-innovation-fellows){:target="_blank"}  
+General Services Administration, 10/19/20
+
+Featured images by NSF’s National Optical-Infrared Astronomy Research Laboratory:      
+[A (Galactic) Arm’s Length Away](https://www.nationalastro.org/news/a-galactic-arms-length-away-iotw2019a/){:target="_blank"} - galaxies NGC 672 and IC 1727, 05/06/20  
+[Silver Galactic Sliver](https://www.nationalastro.org/news/silver-galactic-sliver-iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20  
 [Cosmic Fireworks](https://nationalastro.org/news/cosmic-fireworks/){:target="_blank"} - galaxy NGC 925, 07/02/20  
 [Deep Dive into a Galaxy Cluster](https://noirlab.edu/public/news/noirlab2101/){:target="_blank"} - galaxy NGC 1003, 01/05/21  
 [Unrivaled View of Galaxy Messier 106](https://noirlab.edu/public/news/noirlab2112/){:target="_blank"} -
