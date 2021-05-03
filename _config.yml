@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Maria Patterson"
 title_separator          : "-"
 name                     : "Maria Patterson"
-description              : "Machine Learning Engineer, Astro PhD, open science architect, and equity in STEM advocate."
+description              : "Civic techie, Astro PhD, open science architect, and inclusive AI advocate."
 url                      : https://mtpatter.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mtpatter/mtpatter.github.io
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Hi, I'm Maria"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Machine Learning Engineer, Astro PhD, open science architect, and equity in STEM advocate."
-  location         : "1 AU"
+  bio              : "I'm a civic techie, Astro PhD, open science architect, and inclusive AI advocate."
+  location         : "Indianapolis"
   email            : mtpatter@uchicago.edu
   uri              :
   bitbucket        :
