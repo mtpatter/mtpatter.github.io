@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/
-title: Projects
+title: Tech Projects
 header:
   image: /assets/images/telops.jpg
   caption: "Control room at Kitt Peak National Observatory"

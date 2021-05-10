@@ -2,9 +2,9 @@
 main:
   - title: "What's new"
     url: /updates/
-  - title: "My work"
+  - title: "Tech work"
     url: /projects/
-  - title: "My interests"
+  - title: "Interests"
     url: /causes/
   - title: "In the media"
     url: /media/
