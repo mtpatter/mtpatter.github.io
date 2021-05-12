@@ -96,7 +96,7 @@ I am a member of the [HALOGAS](http://www.astron.nl/halogas/){:target="_blank"} 
 
 ### - Stellar streams and companions
 Deep and wide-field optical imaging is essential to understand the role of accretion and the source of accreting gas and new material in galaxies. I was the PI for an observing campaign to image the HALOGAS Survey sample of galaxies in broadband and emission line filters with the Kitt Peak National Observatory's 4-meter telescope, in order to search for faint companions and stellar stream features around the galaxies. We compared these images with our very deep HI data to better understand the process of galaxy growth.
-My observations are deep enough to successfully recover faint star formation and old stellar streams in several galaxies, including, for example [NGC 4414](http://adsabs.harvard.edu/abs/2014A%26A...566A..80D){:target="_blank"} (which has a huge, beautiful faint shell!), [NGC 3198](http://adsabs.harvard.edu/abs/2013A%26A...554A.125G){:target="_blank"}, and [NGC 5023](http://adsabs.harvard.edu/abs/2013MNRAS.434.2069K){:target="_blank"}.
+My observations are deep enough to successfully recover faint star formation and old stellar streams in several galaxies, including, for example [NGC 4414](http://adsabs.harvard.edu/abs/2014A%26A...566A..80D){:target="_blank"} (which has a huge, beautiful faint shell!), [NGC 3198](http://adsabs.harvard.edu/abs/2013A%26A...554A.125G){:target="_blank"}, and [NGC 5023](http://adsabs.harvard.edu/abs/2013MNRAS.434.2069K){:target="_blank"}.  You can also find some really cool downloadable images from my dissertation featured by NSF’s National Optical-Infrared Astronomy Research Laboratory on my [media page](https://mtpatter.github.io/media/).
 
 ## Algorithms
 
