@@ -7,8 +7,9 @@ header:
   caption: "Control room at Kitt Peak National Observatory"
 ---
 
-I strive to apply DevOps practices and culture to data products
-so as to enable robust and scalable analysis.
+For my tech projects, I adopt MLOps practices to build robust
+and scalable analytics, platforms, and products that are both production
+ready and science quality.
 I've worked on a lot of cross-disciplinary data analysis projects and enjoy learning
 about techniques and tools for ensuring reproducibility in the era
 of increasingly growing datasets.
