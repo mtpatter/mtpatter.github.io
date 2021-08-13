@@ -6,6 +6,9 @@ title: "News, articles, and press with me and my work"
 
 <br>
 
+[Embracing Civic Tech: Presidential Fellowship Focuses on Inclusion](https://www.bizvoicemagazine.com/wp-content/uploads/2021/07/MariaPatterson.pdf){:target="_blank"}  
+[BizVoice Magazine](https://www.bizvoicemagazine.com/){:target="_blank"} interview, 08/2021 issue
+
 [In Photos: Our Best View Yet Of A Glowing Galaxy Near The ‘Big Dipper’ That Hides A Supermassive Secret](https://www.forbes.com/sites/jamiecartereurope/2021/03/18/in-photos-best-view-yet-of-glowing-galaxy-near-the-big-dipper-that-hides-a-supermassive-secret/?sh=3afb145d3543&utm_source=TWITTER&utm_medium=social&utm_content=4623821552&utm_campaign=sprinklrForbesScience){:target="_blank"}  
 Forbes.com, 03/18/21
 
