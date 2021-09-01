@@ -23,14 +23,25 @@ Having worked on enough projects to have made a ton of mistakes, I have a number
 resources for lessons learned, use cases, tutorials, and recommendations for
 building data science pipelines and analysis environments.
 
-* [Cloud architecture for the data scientist: Deploying machine learning pipelines to production](https://2020.indycloudconf.com/talks/cloud-architecture-for-the-data-scientist-deploying-machine-learning-pipelines-to-production/){:target="_blank"} [[video]](https://www.youtube.com/watch?v=y0H5Et4hDVQ&list=PLt4L3V8wVnF7cIGxf4nkxScMKcm1Uxvt){:target="_blank"} - a talk at Indy Cloud Conf 2020
+* [Make a mock “real-time” data stream with Python and Kafka](https://towardsdatascience.com/make-a-mock-real-time-stream-of-data-with-python-and-kafka-7e5e23123582?sk=7ccd7b3383969c2b52c6606c12054c32){:target="_blank"} [[GitHub repo]](https://github.com/mtpatter/time-series-kafka-demo){:target="_blank"} - a tutorial I published on Towards Data Science on how to convert a csv of time series events into a real-time stream with Kafka
+
+* [Machine learning model serving for newbies with MLflow](https://towardsdatascience.com/machine-learning-model-serving-for-newbies-with-mlflow-76f9f0ac3cb2?sk=3fabd570be956c5830591f9ac0fa7991){:target="_blank"} [[GitHub repo]](https://github.com/mtpatter/mlflow-tutorial){:target="_blank"} - a tutorial I published on Towards Data Science on how to serve machine learning models over an API
+
+* [Cloud architecture for the data scientist: Deploying machine learning pipelines to production](https://2020.indycloudconf.com/talks/cloud-architecture-for-the-data-scientist-deploying-machine-learning-pipelines-to-production/){:target="_blank"} [[video]](https://www.youtube.com/watch?v=y0H5Et4hDVQ&list=PLt4L3V8wVnF7cIGxf4nkxScMKcm1Uxvt){:target="_blank"} - a talk I gave at Indy Cloud Conf 2020
+
 * [Building a newsfeed from the Universe: Data streams in astronomy](https://www.confluent.io/kafka-summit-san-francisco-2019/building-a-newsfeed-from-the-universe-data-streams-in-astronomy/){:target="_blank"} - a use case talk I gave at Kafka Summit 2019
+
 * [Streaming Data from the Universe with Apache Kafka](https://www.confluent.io/blog/streaming-data-from-the-universe-with-apache-kafka/){:target="_blank"} - a blog post I wrote for Confluent
-* [Data Stream Processing for Newbies with Kafka, KSQL, and Postgres](https://medium.com/high-alpha/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres-c30309cfaaf8){:target="_blank"} - a tutorial on tools for implementing real-time analytics
-* [daloy](https://github.com/mtpatter/daloy){:target="_blank"} - a tool for converting a csv of time series events into a real-time stream
+
+* [Data Stream Processing for Newbies with Kafka, KSQL, and Postgres](https://medium.com/high-alpha/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres-c30309cfaaf8?sk=3da652f7ab08ef3a138241569857e110){:target="_blank"} [[GitHub repo]](https://github.com/mtpatter/postgres-kafka-demo){:target="_blank"} - a tutorial on tools for implementing real-time analytics
+
 * [Building a community fountain around your data stream](https://channel9.msdn.com/Events/PyData/Seattle2017/BRK09){:target="_blank"} - a talk I gave at PyData 2017
+
 * [Big data vs the scientist or: How I learned to stop worrying and love the cloud](https://soundcloud.com/loyolachicago/big-data-vs-the-scientist-maria-patterson){:target="_blank"} - a talk I gave at a Meetup for the Chicago ACM group
 
+If you find any of it useful and want to let me know, I always appreciate donations to my Saturday morning fancy coffee fund:
+
+<iframe src="https://github.com/sponsors/mtpatter/card" title="Sponsor mtpatter" height="225" width="600" style="border: 0;"></iframe>
 
 ### - Large Synoptic Survey Telescope and Zwicky Transient Facility
 I worked for the Large Synoptic Survey Telescope (LSST, now known as the
