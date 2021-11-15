@@ -1,6 +1,5 @@
 # Version: 0.0.2
 FROM ubuntu
-MAINTAINER Maria Patterson "maria.t.patterson@gmail.com"
 ENV REFRESHED_AT 2019-12-26
 
 RUN apt-get update -y
