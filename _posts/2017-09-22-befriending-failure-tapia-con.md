@@ -17,4 +17,4 @@ Maria Patterson, University of Washington\\
 Misbah Mubarak, Argonne National Laboratory\\
 Raquell Holmes, improvscience
 
-Read more on the [Tapia Conference site](http://tapiaconference.org/schedule/friday-september-22-2017/1045am-1215pm/befriending-failure-is-simply-smarter/).
+Read more on the [Tapia Conference site](https://tapiaconference.cmd-it.org/wp-content/uploads/2020/06/Tapia-Conference-2017-Program.pdf){:target="_blank"}.
