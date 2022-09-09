@@ -7,7 +7,7 @@ header:
 
 ---
 
-If you don't see anything below, find a version of my résumé (extra page to include a few relevant publications) in pdf format here: [Maria's
+If you don't see anything below, find a version of my résumé in pdf format here: [Maria's
 résumé]({{site.url}}/assets/images/patterson-resume.pdf)
 
 <object data="{{site.url}}/assets/images/patterson-resume.pdf" type="application/pdf" width="600" height="600">
