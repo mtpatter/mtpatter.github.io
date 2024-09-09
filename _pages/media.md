@@ -19,9 +19,9 @@ ExecutiveGov, 10/20/20
 General Services Administration, 10/19/20
 
 Featured images by NSF’s National Optical-Infrared Astronomy Research Laboratory:      
-[A (Galactic) Arm’s Length Away](https://www.nationalastro.org/news/a-galactic-arms-length-away-iotw2019a/){:target="_blank"} - galaxies NGC 672 and IC 1727, 05/06/20  
-[Silver Galactic Sliver](https://www.nationalastro.org/news/silver-galactic-sliver-iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20  
-[Cosmic Fireworks](https://nationalastro.org/news/cosmic-fireworks/){:target="_blank"} - galaxy NGC 925, 07/02/20  
+[A (Galactic) Arm’s Length Away](https://noirlab.edu/public/images/iotw2019a/){:target="_blank"} - galaxies NGC 672 and IC 1727, 05/06/20  
+[Silver Galactic Sliver](https://noirlab.edu/public/images/iotw2023a/){:target="_blank"} - galaxy NGC 891, 06/03/20  
+[Cosmic Fireworks](https://noirlab.edu/public/images/noirlab2016a/){:target="_blank"} - galaxy NGC 925, 07/02/20  
 [Deep Dive into a Galaxy Cluster](https://noirlab.edu/public/news/noirlab2101/){:target="_blank"} - galaxy NGC 1003, 01/05/21  
 [Unrivaled View of Galaxy Messier 106](https://noirlab.edu/public/news/noirlab2112/){:target="_blank"} -
 galaxy NGC 4258, 03/16/21
