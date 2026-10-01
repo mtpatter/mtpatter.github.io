@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lechleiter Indiana Visiting Artist Program - Joy of Carving Workshops</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: one editorial column; a "soap bar" hero holding the headline number, then reach, who, demand, voices, method */
+:root{
+  --bg:#f3f6f5; --surface:#ffffff; --ink:#17302f; --muted:#566b69; --line:#d3dfdc;
+  --soap:#cfe8e1; --soap-edge:#a9d3c7; --lilac:#ddd6f0; --butter:#f6e7b4; --accent:#1f6f68;
+  --kid:#3c9c8f; --adult:#8d86c9;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#101918; --surface:#172220; --ink:#e3eeeb; --muted:#9db2ae; --line:#2a3a37;
+  --soap:#1f3a35; --soap-edge:#2f5a51; --lilac:#2c2840; --butter:#3b3420; --accent:#7fd0c4;
+  --kid:#5fc2b3; --adult:#a7a0e0; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#101918; --surface:#172220; --ink:#e3eeeb; --muted:#9db2ae; --line:#2a3a37;
+  --soap:#1f3a35; --soap-edge:#2f5a51; --lilac:#2c2840; --butter:#3b3420; --accent:#7fd0c4;
+  --kid:#5fc2b3; --adult:#a7a0e0; color-scheme:dark }
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+.wrap{max-width:880px;margin:0 auto;padding-inline:20px;padding-block:36px 64px;display:grid;gap:56px}
+h1,h2,h3{font-family:var(--display);margin:0;line-height:1.1;text-wrap:balance}
+h2{font-size:clamp(1.5rem,3.2vw,2rem);font-weight:700}
+h3{font-size:1.1rem;font-weight:700}
+p{margin:0;max-width:65ch}
+.eyebrow{font-family:var(--display);font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);font-weight:700}
+section{display:grid;gap:18px}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* hero */
+.hero{display:grid;gap:22px}
+.bar{background:var(--soap);border-radius:28px;padding:clamp(22px,5vw,44px);
+  box-shadow:inset 0 0 0 10px var(--soap-edge), inset 0 0 0 11px var(--soap);display:grid;gap:10px}
+.bar .big{font-family:var(--display);font-weight:800;font-size:clamp(3.4rem,12vw,6.5rem);line-height:.95;letter-spacing:-.02em}
+.bar .big small{font-size:.35em;font-weight:500;letter-spacing:0;display:block;margin-bottom:6px;color:var(--muted)}
+.bar .sub{font-size:clamp(1.1rem,2.4vw,1.35rem);max-width:40ch}
+.hero h1{font-size:clamp(2rem,5vw,3rem);font-weight:800}
+.hero .meta{color:var(--muted);font-size:1rem}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+@media (max-width:640px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.kpi{border-top:2px solid var(--ink);padding-top:10px;display:grid;gap:2px}
+.kpi .v{font-family:var(--display);font-size:2rem;font-weight:800;line-height:1}
+.kpi .k{font-size:.92rem;color:var(--muted);line-height:1.35}
+
+/* chart */
+.chart{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:420px;height:auto}
+.legend{display:flex;flex-wrap:wrap;gap:16px;font-size:.88rem;color:var(--muted);margin-top:10px;font-family:var(--display)}
+.legend span{display:inline-flex;gap:6px;align-items:center}
+.sw{width:12px;height:12px;border-radius:3px;display:inline-block}
+
+/* who */
+.who{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+@media (max-width:720px){.who{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;display:grid;gap:8px;align-content:start;min-width:0}
+.card .v{font-family:var(--display);font-weight:800;font-size:2.2rem;line-height:1}
+.card .tag{font-family:var(--display);font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.card p{font-size:.98rem}
+
+/* demand */
+.signals{display:grid;gap:12px;margin:0;padding:0;list-style:none}
+.signals li{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:start}
+.signals .dot{width:12px;height:12px;border-radius:4px;background:var(--accent);margin-top:.5em}
+
+/* voices */
+.themes{display:grid;gap:22px}
+.theme{display:grid;grid-template-columns:200px minmax(0,1fr);gap:18px;border-top:1px solid var(--line);padding-top:18px}
+@media (max-width:640px){.theme{grid-template-columns:1fr;gap:10px}}
+.theme h3{display:grid;gap:4px;align-content:start}
+.theme h3 span{font-family:var(--body);font-weight:400;font-size:.9rem;color:var(--muted)}
+.qs{display:grid;gap:10px}
+.q{margin:0;font-size:1.12rem;line-height:1.45}
+.q cite{display:block;font-style:normal;font-size:.88rem;color:var(--muted);margin-top:2px}
+.pull{background:var(--lilac);border-radius:18px;padding:clamp(20px,4vw,34px);display:grid;gap:10px}
+.pull blockquote{margin:0;font-family:var(--display);font-weight:700;font-size:clamp(1.4rem,3.6vw,2rem);line-height:1.2;text-wrap:balance}
+.pull cite{font-style:normal;color:var(--muted);font-size:.95rem}
+
+/* method */
+.method{background:var(--butter);border-radius:18px;padding:clamp(20px,4vw,32px);display:grid;gap:14px}
+.method-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+@media (max-width:640px){.method-grid{grid-template-columns:1fr}}
+.method-grid > div{display:grid;gap:6px;min-width:0}
+
+.tbars{display:grid;gap:6px}
+.tb{font:inherit;display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr) 2.2rem;gap:12px;align-items:center;background:none;border:0;border-radius:8px;padding:6px 8px;color:var(--ink);cursor:pointer;text-align:left}
+@media (max-width:560px){.tb{grid-template-columns:minmax(0,1fr) 2.2rem}.tb .track{grid-column:1/-1;grid-row:2}}
+.tb:hover{background:var(--surface)}
+.tb[aria-pressed="true"]{background:var(--soap)}
+.tb:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tb .name{font-family:var(--display);font-weight:700;font-size:.98rem}
+.tb .track{height:10px;background:var(--line);border-radius:5px;overflow:hidden}
+.tb .fill{height:100%;background:var(--kid);border-radius:5px}
+.tb .c{font-family:var(--mono);font-size:.9rem;text-align:right}
+.quotes{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.qc{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;display:grid;gap:8px;align-content:start;min-width:0}
+.qc blockquote{margin:0;font-family:var(--display);font-weight:700;font-size:1.08rem;line-height:1.3}
+.qc .acct{font-size:1rem;line-height:1.45}
+.qc figcaption{font-size:.86rem;color:var(--muted);line-height:1.4}
+.qc .tags{display:flex;flex-wrap:wrap;gap:4px 10px}
+.qc .tag{font-family:var(--display);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.align{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:14px}
+.align table{border-collapse:collapse;width:100%;min-width:640px;font-size:.95rem}
+.align th,.align td{text-align:left;vertical-align:top;padding:12px 14px;border-bottom:1px solid var(--line)}
+.align tr:last-child td{border-bottom:0}
+.align th{font-family:var(--display);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.align td:first-child{font-family:var(--display);font-weight:700;width:24%}
+.align td:last-child{color:var(--muted);width:34%}
+.foot{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;display:grid;gap:6px}
+</style>
+<style>html,body{margin:0}*,*::before,*::after{box-sizing:border-box}</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="eyebrow">The Children's Museum of Indianapolis · June to September 2026</div>
+    <h1>Lechleiter Indiana Visiting Artist Program - Joy of Carving Workshops</h1>
+    <p class="meta">Visiting artist: Maria Patterson</p>
+    <div class="bar">
+      <div class="big num"><small>Participants</small>~285</div>
+      <p class="sub">children and families were introduced to the art of subtractive sculpture through soap carving activities and created works of art of their own.</p>
+    </div>
+    <div class="kpis">
+      <div class="kpi"><span class="v num">18</span><span class="k">workshop sessions</span></div>
+      <div class="kpi"><span class="v num">9</span><span class="k">workshop days over four months</span></div>
+      <div class="kpi"><span class="v num">~200</span><span class="k">kids, about 70% of all participants</span></div>
+      <div class="kpi"><span class="v num">~85</span><span class="k">parents and other adults carving alongside them</span></div>
+    </div>
+  </header>
+
+  <section aria-labelledby="reach">
+    <div class="eyebrow">Reach</div>
+    <h2 id="reach">About 16 people per session, June through September</h2>
+    <p>Workshops ran as afternoon drop-in sessions for museum visitors, plus dedicated sessions for two of the museum's youth programs. June was the biggest month because it included three StarPoint Summer Camp groups.</p>
+    <div class="chart">
+      <svg id="chart" viewBox="0 0 640 260" role="img" aria-label="Participants per month: June about 116, July about 51, August about 76, September about 42"></svg>
+      <div class="legend">
+        <span><i class="sw" style="background:var(--kid)"></i>Kids and teens</span>
+        <span><i class="sw" style="background:var(--adult)"></i>Adults</span>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="who">
+    <div class="eyebrow">Who took part</div>
+    <h2 id="who">Museum visitors, summer campers and teen apprentices</h2>
+    <div class="who">
+      <div class="card">
+        <span class="tag">Drop-in sessions</span>
+        <span class="v num">~200</span>
+        <p>Visitors across 14 public sessions, mostly families working side by side.</p>
+      </div>
+      <div class="card">
+        <span class="tag">StarPoint Summer Camp</span>
+        <span class="v num">~60</span>
+        <p>Campers in three groups. StarPoint is the museum's low-cost summer camp for neighborhood kids going into grades 1–6.</p>
+      </div>
+      <div class="card">
+        <span class="tag">Museum Apprentice Program</span>
+        <span class="v num">22</span>
+        <p>Teens in the museum's skill-building program for ages 13–18, in a dedicated September session.</p>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="demand">
+    <div class="eyebrow">Demand</div>
+    <h2 id="demand">People sought the workshop out</h2>
+    <ul class="signals">
+      <li><i class="dot"></i><p>One August session filled entirely through pre-registration, so no one had to be recruited from the hallway.</p></li>
+      <li><i class="dot"></i><p>One family told us they came to the museum that day specifically to make sure they could do the workshop.</p></li>
+      <li><i class="dot"></i><p>A family traveling between Chicago and Cincinnati stopped at the museum, and the mom said the workshop was one of the best parts of their trip.</p></li>
+      <li><i class="dot"></i><p>A visitor recognized the artist's carving work from Instagram and stopped to say they liked it.</p></li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="voices">
+    <div class="eyebrow">In their words</div>
+    <h2 id="voices">What participants said</h2>
+
+    <div class="pull">
+      <blockquote>“She wants to say thank you. This was one of the best parts of our trip.”</blockquote>
+      <cite>A mom speaking for her child, visiting while traveling between Chicago and Cincinnati</cite>
+    </div>
+
+    <p>We gathered 18 comments from participants and grouped them by theme. The table shows how each theme connects to the museum's mission and the goals of the Lechleiter Visiting Artist Program.</p>
+    <div class="align">
+      <table>
+        <thead><tr><th>Theme</th><th>What we heard</th><th>Connects to</th></tr></thead>
+        <tbody>
+          <tr><td>Joy and wonder</td><td>Kids and adults called the workshop fun, the best, and one of the best parts of a family trip.</td><td>Museum mission: “ignite joy, wonder, and curiosity”</td></tr>
+          <tr><td>Inspired to keep making art</td><td>Participants asked to carve at home, planned to buy more soap, and had ideas for their next pieces.</td><td>Visiting Artist goal: “inspire children to pursue learning in and through the visual arts”</td></tr>
+          <tr><td>Children and adults learning together</td><td>Families came for the workshop together, and parents coached their children through hard moments.</td><td>Museum mission: “powerful learning experiences for children and adults”</td></tr>
+          <tr><td>Hard work and practice</td><td>A child who found carving difficult decided “When it's hard, it's fun.” A parent told their child “It takes practice.”</td><td>Visiting Artist goal: “the hard work, dedication, and study/practice that artists undertake”</td></tr>
+          <tr><td>Curiosity about process and materials</td><td>Adults reconsidered how things are made, from subtractive sculpture to the choice of carving tools.</td><td>Visiting Artist goal: the artist's “process, and/or the variety of mediums used”</td></tr>
+          <tr><td>Connecting with a working artist</td><td>Participants talked with the artist during sessions, and one already knew the artist's work from Instagram.</td><td>Visiting Artist goal: artists who “teach, interact with, and inspire children, families”</td></tr>
+          <tr><td>Deeply engaged in the process</td><td>Participants didn't want to stop: “Could do this all day.”</td><td>Museum value: memorable learning through “powerful interactions”</td></tr>
+          <tr><td>Calm and satisfaction in making</td><td>Participants described carving as therapeutic, relaxing and satisfying.</td><td>Museum mission: “powerful learning experiences”</td></tr>
+          <tr><td>A memorable museum visit</td><td>Families planned their day around the workshop or made it a highlight of their trip.</td><td>Museum value: “continually engage and delight visitors”</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>Select a theme to see its comments. Many comments fit more than one theme.</p>
+    <div class="tbars" id="tbars" role="group" aria-label="Filter comments by theme"></div>
+    <div class="quotes" id="quotes"></div>
+  </section>
+
+
+  <footer class="foot">
+    <p>Figures are rounded. Most counts were taken at each session; the StarPoint groups and one drop-in session were counted approximately.</p>
+    <p>Program descriptions, mission and Visiting Artist Program goals quoted from childrensmuseum.org.</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Monthly participants (rounded impact figures). kids includes teens.
+  const M=[["June",94,22],["July",33,18],["August",40,36],["September",32,10]];
+  const svg=document.getElementById("chart"),W=640,H=260,L=36,R=10,T=22,B=36;
+  const max=125, y=v=>T+(H-T-B)*(1-v/max), bw=(W-L-R)/M.length, barW=Math.min(84,bw*.55);
+  let g="";
+  for(let t=0;t<=max;t+=25){g+=`<line x1="${L}" x2="${W-R}" y1="${y(t)}" y2="${y(t)}" stroke="var(--line)"/><text x="${L-8}" y="${y(t)+4}" text-anchor="end" font-size="11" fill="var(--muted)" font-family="IBM Plex Mono, monospace">${t}</text>`;}
+  M.forEach(([m,k,a],i)=>{
+    const x=L+bw*i+(bw-barW)/2, t=k+a;
+    g+=`<rect x="${x}" y="${y(k)}" width="${barW}" height="${y(0)-y(k)}" fill="var(--kid)" rx="3"/>`;
+    g+=`<rect x="${x}" y="${y(t)}" width="${barW}" height="${y(k)-y(t)}" fill="var(--adult)" rx="3"/>`;
+    g+=`<text x="${x+barW/2}" y="${y(t)-7}" text-anchor="middle" font-size="13" font-weight="600" fill="var(--ink)" font-family="IBM Plex Mono, monospace">~${t}</text>`;
+    g+=`<text x="${x+barW/2}" y="${H-B+20}" text-anchor="middle" font-size="13" fill="var(--ink)" font-family="Bricolage Grotesque, sans-serif">${m}</text>`;
+  });
+  svg.innerHTML=g;
+})();
+
+(function(){
+  const THEMES={joy:"Joy and wonder",home:"Inspired to keep making art",family:"Children and adults learning together",calm:"Calm and satisfaction in making",absorbed:"Deeply engaged in the process",persist:"Hard work and practice",newidea:"Curiosity about process and materials",artist:"Connecting with a working artist",draw:"A memorable museum visit"};
+  const Q=[
+    {q:"That was so much fun",t:["joy"]},
+    {q:"That was the best",t:["joy"]},
+    {q:"Just a minute I'm trying to make it symmetric",c:"A participant who didn't want to leave yet",t:["absorbed"]},
+    {q:"When it's hard, it's fun",c:"A boy who found carving a bit difficult, after he and the artist talked about sports and games against tough opponents",t:["persist","joy","artist"]},
+    {a:"A visitor had seen the artist's Instagram reel of an Ewok soap carving and stopped to say they liked it.",t:["artist"]},
+    {a:"An adult who owns a 3D printer said he had never really thought about “subtractive sculpture.”",t:["newidea"]},
+    {q:"This is so much fun I'm not going to be able to quit.",t:["joy","absorbed","home"]},
+    {q:"It's so much fun. And satisfying.",t:["joy","calm"]},
+    {q:"I feel like I did soap carving before but we used the wrong tools. Like a knife or clay tools this works so much better.",c:"About the workshop's binder-clip carving tools",t:["newidea"]},
+    {q:"This is a good lesson for you. It takes practice.",c:"A parent to a child who was having a little trouble",t:["persist","family"]},
+    {q:"Can I work on this at home?",t:["home"]},
+    {q:"We actually came here today to make sure we could do this.",t:["draw","family"]},
+    {q:"Therapeutic",t:["calm"]},
+    {q:"Relaxing",t:["calm"]},
+    {q:"We'll have to get more soap.",t:["home","family"]},
+    {q:"I want to make a dog for my turtle.",t:["home"]},
+    {q:"She wants to say thank you. This was one of the best parts of our trip.",c:"A mom speaking for her child, stopping at the museum while traveling between Chicago and Cincinnati",t:["draw","joy","family"]},
+    {q:"Very relaxing. Could do this all day.",t:["calm","absorbed"]},
+  ];
+  const cnt=Object.fromEntries(Object.keys(THEMES).map(k=>[k,Q.filter(x=>x.t.includes(k)).length]));
+  const order=Object.keys(THEMES).sort((a,b)=>cnt[b]-cnt[a]); const max=Math.max(...Object.values(cnt));
+  let active=null; const tb=document.getElementById("tbars"), qs=document.getElementById("quotes");
+  function render(){
+    tb.innerHTML=`<button class="tb" type="button" data-k="" aria-pressed="${active===null}"><span class="name">All comments</span><span class="track"></span><span class="c">${Q.length}</span></button>`+
+      order.map(k=>`<button class="tb" type="button" data-k="${k}" aria-pressed="${active===k}"><span class="name">${THEMES[k]}</span><span class="track"><span class="fill" style="display:block;width:${cnt[k]/max*100}%"></span></span><span class="c">${cnt[k]}</span></button>`).join("");
+    qs.innerHTML=Q.filter(x=>!active||x.t.includes(active)).map(x=>`<figure class="qc">${x.q?`<blockquote>“${x.q}”</blockquote>`:`<p class="acct" style="margin:0">${x.a}</p>`}${x.c?`<figcaption>${x.c}</figcaption>`:""}<div class="tags">${x.t.map(t=>`<span class="tag">${THEMES[t]}</span>`).join("")}</div></figure>`).join("");
+  }
+  tb.addEventListener("click",e=>{const b=e.target.closest("button"); if(!b) return; active=b.dataset.k||null; render();});
+  render();
+})();
+</script></body>
+</html>
